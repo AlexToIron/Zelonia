@@ -7,14 +7,13 @@ Ce dépôt Github contient des fonctions personnalisées pour le serveur Minecra
 
 Le dépôt contient une variété de fonctions pour améliorer l'expérience de jeu des joueurs sur le serveur Zelonia. Les fonctions sont organisées dans des dossiers en fonction de leur utilité. Voici une liste des fonctions disponibles :
 
-- Mini-jeux personnalisés tels que Spleef, TNT Run, PvP Box, Capture the Flag, etc.
-- Commandes pour administrer le serveur, telles que la gestion des joueurs, des banissements, des promotions, etc.
-- Scripts pour ajouter de nouveaux éléments et fonctionnalités au jeu, tels que des nouveaux objets, des nouvelles recettes, des nouveaux monstres, etc.
+- Mini-jeux personnalisés tels que Spleef, TNT Run, PvP Box, KbFFA et Jump.
+- Commandes pour administrer le serveur, telles que la gestion des joueurs, des promotions, etc.
 
 
 # Comment utiliser les fonctions
 
-Les fonctions peuvent être utilisées en les téléchargeant et en les ajoutant au dossier "functions" de votre monde Minecraft.
+Les fonctions peuvent être utilisées en les téléchargeant et en les ajoutant au dossier "functions" de votre monde Minecraft, ainsi que en ajoutant le fichier "scoreboard.dat" dans le dossier data de votre monde.
 
 
 # Comment contribuer
